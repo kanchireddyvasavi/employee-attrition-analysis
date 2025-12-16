@@ -39,7 +39,7 @@ The purpose of this project is to understand why employees leave an organization
 --> Built an interactive Power BI dashboard with KPIs, charts, filters, and slicers to clearly present attrition trends and key insights, helping HR teams make data-driven decisions.
 
 ## Dashboard
-<img width="1314" height="706" alt="employee_dashboard" src="https://github.com/user-attachments/assets/a4071c5d-405a-480c-82e9-b0b8b50a315a" />
+<img width="1314" height="706" alt="employee_dashboard" src="https://github.com/user-attachments/assets/b0f10689-2fd2-47d5-8faa-98b01591da6f" />
 
  ## Project Insights
 
