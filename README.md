@@ -14,7 +14,7 @@ The purpose of this project is to understand why employees leave an organization
 ## Dataset used
 - <a href="https://github.com/kanchireddyvasavi/employee-attrition-analysis/blob/main/Employee_Attrition_Project.csv">DataSet</a>
 
---> Analysis in Python:<a href="https://github.com/kanchireddyvasavi/employee-attrition-analysis/blob/main/Untitled1.ipynb">View Data in Python</a>
+--> Analysis in Python: <a href="https://github.com/kanchireddyvasavi/employee-attrition-analysis/blob/main/Untitled1.ipynb">View Data in Python</a>
 
 --> Analysis in Sql: <a href="https://github.com/kanchireddyvasavi/employee-attrition-analysis/blob/main/Employee_Attrition_Analysis.sql">View Data operations on SQL</a>
 
@@ -28,7 +28,7 @@ The purpose of this project is to understand why employees leave an organization
 
 --> Cleaned and transformed the dataset by handling missing values, fixing inconsistencies, and to ensure accurate and reliable analysis.
 
--->Connected Python to a PostgreSQL database to store the cleaned employee data for structured storage and querying.
+--> Connected Python to a PostgreSQL database to store the cleaned employee data for structured storage and querying.
 
 --> Created a new database and tables in SQL, and loaded the processed employee data from Python into the database.
 
@@ -47,7 +47,7 @@ The purpose of this project is to understand why employees leave an organization
 
 -> Research & Development and Sales departments experience the highest attrition, while Human Resources shows comparatively low attrition, suggesting the need for targeted retention strategies in high-risk departments.
 
-->Employees working overtime show significantly higher attrition compared to those who do not, indicating that workload and work-life balance are major contributors to employee exits.Low-salary employees account for the majority of attrition, while high-salary employees show much lower attrition, suggesting compensation plays a key role in retention.
+-> Employees working overtime show significantly higher attrition compared to those who do not, indicating that workload and work-life balance are major contributors to employee exits.Low-salary employees account for the majority of attrition, while high-salary employees show much lower attrition, suggesting compensation plays a key role in retention.
 
 -> Attrition is highest among employees with fewer years at the company, especially in the early stages of employment, emphasizing the importance of strong onboarding and early-career engagement programs.
 
